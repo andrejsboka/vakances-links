@@ -1,0 +1,4 @@
+- [Emergn – Opportunities](https://www.emergn.com/opportunities/senior-sap-se-ux-design/) — vacancies at the digital transformation company Emergn.  
+- [Latvijas Pasts – Karjera / Vakances](https://pasts.lv/karjera/vakances) — job openings at the national postal service of Latvia.  
+- [MikroTik – Darbs](https://darbs.mikrotik.com/) — career opportunities at MikroTik, a network equipment manufacturer.  
+- [Codex – Karjera](https://www.codex.lv/karjera/) — open positions at Codex, an IT and software development company.  
