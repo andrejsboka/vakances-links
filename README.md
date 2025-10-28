@@ -25,3 +25,4 @@ Let’s make this list as comprehensive as possible so everyone can benefit from
 
 ### Current list  
 
+(https://github.com/andrejsboka/vakances-links/blob/main/list.md)
