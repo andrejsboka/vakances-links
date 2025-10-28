@@ -2,4 +2,4 @@
 - [Latvijas Pasts – Karjera / Vakances](https://pasts.lv/karjera/vakances) — job openings at the national postal service of Latvia.  
 - [MikroTik – Darbs](https://darbs.mikrotik.com/) — career opportunities at MikroTik, a network equipment manufacturer.  
 - [Codex – Karjera](https://www.codex.lv/karjera/) — open positions at Codex, an IT and software development company.
-- [allnex] (https://careers.allnex.com/search/?createNewAlert=false&q=&locationsearch=latvia&optionsFacetsDD_department=&optionsFacetsDD_city=&optionsFacetsDD_country=&optionsFacetsDD_lang=)}]
+- [allnex](https://careers.allnex.com/search/?createNewAlert=false&q=&locationsearch=latvia&optionsFacetsDD_department=&optionsFacetsDD_city=&optionsFacetsDD_country=&optionsFacetsDD_lang=)]
