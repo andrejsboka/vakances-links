@@ -4,4 +4,4 @@
 - [Codex – Karjera](https://www.codex.lv/karjera/) — open positions at Codex, an IT and software development company.
 - [allnex](https://careers.allnex.com/search/?createNewAlert=false&q=&locationsearch=latvia&optionsFacetsDD_department=&optionsFacetsDD_city=&optionsFacetsDD_country=&optionsFacetsDD_lang=) - allnex is the leading company globally for industrial coating resins, crosslinkers and additives.
 - [SAPIENS](https://careers.sapiens.com/search/?createNewAlert=false&q=&locationsearch=latvia&optionsFacetsDD_country=&optionsFacetsDD_city=&optionsFacetsDD_dept=) -  a global leader in intelligent insurance SaaS-based software solutions.
-- 
+- [Corporate Solutions grupa](https://www.csolutions.lv/lv/karjera)
