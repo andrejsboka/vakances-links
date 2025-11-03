@@ -6,3 +6,8 @@
 - [SAPIENS](https://careers.sapiens.com/search/?createNewAlert=false&q=&locationsearch=latvia&optionsFacetsDD_country=&optionsFacetsDD_city=&optionsFacetsDD_dept=) -  a global leader in intelligent insurance SaaS-based software solutions.
 - [Corporate Solutions grupa](https://www.csolutions.lv/lv/karjera)
 - [Worldline](https://jobs.worldline.com/)
+- [Latviajs Dzelzceļš](https://www.ldz.lv/lv/vakances)
+- [https://www.elko.lv/par-mums/vakances/](https://www.elko.lv/par-mums/vakances/)
+- [https://www.lvm.lv/par-mums/karjera/vakances](https://www.lvm.lv/par-mums/karjera/vakances)
+- [https://workwithus.circlek.com/lv/lv/circle-k-office-search-result] (https://workwithus.circlek.com/lv/lv/circle-k-office-search-result)
+- 
