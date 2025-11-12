@@ -9,5 +9,7 @@
 - [Latviajs Dzelzceļš](https://www.ldz.lv/lv/vakances)
 - [https://www.elko.lv/par-mums/vakances/](https://www.elko.lv/par-mums/vakances/)
 - [https://www.lvm.lv/par-mums/karjera/vakances](https://www.lvm.lv/par-mums/karjera/vakances)
-- [https://workwithus.circlek.com/lv/lv/circle-k-office-search-result] (https://workwithus.circlek.com/lv/lv/circle-k-office-search-result)
-- 
+- [https://workwithus.circlek.com/lv/lv/circle-k-office-search-result](https://workwithus.circlek.com/lv/lv/circle-k-office-search-result)
+- [Luminor](https://luminorbank.teamtailor.com/en-GB#jobs) - Luminor is the leading independent bank in the Baltics and the third-largest provider of financial services in our region.
+
+
